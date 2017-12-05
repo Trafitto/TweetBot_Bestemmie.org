@@ -16,7 +16,7 @@ access_secret = ''
 ```
 
 ## Come funziona:
-Ogni volta che viene eseguito lo script, il bot utilizza le api Rest di Bestemmie.org per prendere una bestemmia, che poi viene postata su Twitter tramite Tweepi
+Ogni volta che viene eseguito lo script, il bot utilizza le api Rest di Bestemmie.org per prendere una bestemmia, che poi viene postata su Twitter tramite tweepy
 * [Bestemmie.org Api Guide](http://www.bestemmie.org/bestemmie/api_show/) - La documentazione delle api
 
 
