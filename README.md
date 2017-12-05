@@ -2,6 +2,8 @@
 
 Il bot per Twitter di [Bestemmie.org](http://www.bestemmie.org)
 
+[@bestemmieworld](https://twitter.com/bestemmieworld)
+
 ## Come Utilizzarlo:
 
 Crea un file Secrets.py dove salvare le variabili con le secrets key delle api di Twitter
